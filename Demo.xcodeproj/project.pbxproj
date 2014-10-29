@@ -43,6 +43,7 @@
 		2E8B1C851361D2EC002B7CD7 /* AdvancedPreferencesView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AdvancedPreferencesView.xib; sourceTree = "<group>"; };
 		2E8B1C861361D2EC002B7CD7 /* GeneralPreferencesView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GeneralPreferencesView.xib; sourceTree = "<group>"; };
 		833612F01A00BC4F00D7EFD8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = MASPreferences/README.md; sourceTree = "<group>"; };
+		833612F51A00D4F100D7EFD8 /* MASCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCommon.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 			children = (
 				2E8B1C581361CCEB002B7CD7 /* Demo-Info.plist */,
 				2E8B1C5C1361CCEB002B7CD7 /* Demo-Prefix.pch */,
+				833612F51A00D4F100D7EFD8 /* MASCommon.h */,
 				2E8B1C5D1361CCEB002B7CD7 /* main.m */,
 			);
 			name = "Supporting Files";
