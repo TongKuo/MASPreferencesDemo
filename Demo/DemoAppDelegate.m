@@ -1,6 +1,6 @@
 
 #import "DemoAppDelegate.h"
-#import "MASPreferencesWindowController.h"
+#import "MASPreferences/MASPreferencesWindowController.h"
 #import "GeneralPreferencesViewController.h"
 #import "AdvancedPreferencesViewController.h"
 
